@@ -18,6 +18,6 @@ I enjoy building data-driven products end to end, from the data pipeline to the 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Company Brain](https://github.com/kaykygueno/company-brain) | AI company knowledge platform with a sourced knowledge graph, role-based access and automated data collection | Next.js, TypeScript, Convex, Clerk, Groq |
-| [Event booking app](https://github.com/kaykygueno/SDW-Assignment3) | Event booking web app with role-based access, admin panel and protected routes (group project) | Next.js, MySQL, JWT |
-| [Dungeon Quest](https://github.com/kaykygueno/SD2-Project-Group13) | Local 2-player 2D dungeon game (group project) | Java, libGDX |
+| [Event Booking Platform](https://github.com/kaykygueno/event-booking-platform) | Event booking web app with role-based access, admin panel and protected routes (group project) | Next.js, MySQL, JWT |
+| [Dungeon Quest](https://github.com/kaykygueno/dungeon-quest) | Local 2-player 2D dungeon game (group project) | Java, libGDX |
 | [Recipe Book API](https://github.com/kaykygueno/Recipe-Book-API) | Recipe management API and console app with a modular design | Java |
