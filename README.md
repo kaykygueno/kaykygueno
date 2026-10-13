@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kayky 👋
 
-<!--
-**kaykygueno/kaykygueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at **Dublin City University (DCU)**, based in Dublin, Ireland.
+I enjoy building data-driven products end to end, from the data pipeline to the app people use.
 
-Here are some ideas to get you started:
+- 🔭 Building **[Company Brain](https://github.com/kaykygueno/company-brain)**, an AI platform that turns scattered company information into a structured, sourced knowledge graph
+- 🎯 Looking for a **data science, AI/ML or software engineering internship** in Ireland
+- 🌍 English · Portuguese · Italian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+
+- **Languages:** Python · TypeScript · JavaScript · Java · SQL
+- **Web & backend:** Next.js · React · Tailwind CSS · Convex · Clerk · MySQL
+- **Other:** Git · libGDX · LLM integration (Groq) · Vitest
+
+## 📌 Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Company Brain](https://github.com/kaykygueno/company-brain) | AI company knowledge platform with a sourced knowledge graph, role-based access and automated data collection | Next.js, TypeScript, Convex, Clerk, Groq |
+| [Event booking app](https://github.com/kaykygueno/SDW-Assignment3) | Event booking web app with role-based access, admin panel and protected routes (group project) | Next.js, MySQL, JWT |
+| [Dungeon Quest](https://github.com/kaykygueno/SD2-Project-Group13) | Local 2-player 2D dungeon game (group project) | Java, libGDX |
+| [Recipe Book API](https://github.com/kaykygueno/Recipe-Book-API) | Recipe management API and console app with a modular design | Java |
